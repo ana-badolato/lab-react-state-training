@@ -4,3 +4,9 @@ body{
 button {
   height: 32px;
 }
+
+.counter{
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
