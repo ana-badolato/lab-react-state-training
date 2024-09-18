@@ -10,3 +10,7 @@ button {
   align-items: center;
   gap: 16px;
 }
+
+.dice img{
+  width: 150px;
+}
